@@ -1,0 +1,51 @@
+College,Size,Location,State,Majors,Admittance,Graduation Rate,Walkability,Social Scene,In-State ,Out-of-State,Ranking
+Auburn,Large,South,Alabama,"Engineering, Business, and Agriculture Sciences",50%,81%,59,Moderate,"$35,298","$56,706",102
+University of Alaska-Fairbanks,Medium,West,Alaska,"Biology, Science, and Engineering",100%,39%,43,Moderate,"$25,340","$39,452",395
+University of Arizona,Large,West,Arizona,"Management Information Systems, Nursing, and Engineering",86%,68%,78,Good,"$33,126","$60,595",127
+University of Arkansas,Large,South,Arkansas,"Business, Marketing, and Sciences",72%,69%,61,Moderate,"$30,008","$28,772",183
+"University of California, LA",Large,West,California,"Economics, Biology, and Psychology",9%,92%,84,Very Good,"$38,031","$68,808",17
+Colorado School of Mines,Medium,West,Colorado,Engineering and Computer Science,60%,82%,84,Very Good,"$42,006","$65,196",80
+University of Connecticut,Large,Northeast,Connecticut,"Business, Engineering, Nursing, and Social Sciences",54%,83%,58,Moderate,"$39,682","$62,350",69
+University of Delaware,Large,South,Delaware,"Physical Therapy, Engineering, and Business",65%,80%,80,Good,"$33,718","$57,358",88
+University of Florida,Large,South,Florida,"Business & Marketing, Engineering, Sciences, and Health",24%,90%,57,Moderate,"$22,601","$44,879",30
+Georgia Institute of Technology,Large,South,Georgia,Engineering and Computer Science,16%,93%,74,Good,"$28,524","$49,636",32
+University of Hawaii at Manoa,Medium,West,Hawaii,"Oceanography, Marine Biology, Astronomy, Agriculture, and Asian/Pacific Studies",70%,62%,75,Moderate,"$32,331","$54,363",169
+University of Idaho,Medium,West,Idaho,"Agricultural Studies, Engineering, Law, and Forestry",79%,61%,72,Very Good,"$23,980","$44,948",183
+University of Illinois Urbana-Champaign,Large,Midwest,Illinois,"Engineering, Business, and Computer Science",44%,85%,77,Good,"$33,642","$52,139",36
+Purdue University,Large,Midwest,Indiana,"Engineering, Computer Science, and Agriculture",50%,83%,80,Good,"$24,882","$43,684",46
+University of Iowa,Large,Midwest,Iowa,"Kinesiology and Exercise Science, Finance, and Psychology",85%,74%,89,Great,"$28,596","$50,559",102
+University of Kansas,Large,Midwest,Kansas,"Psychology, Business, Nursing, Journalism, and Engineering",88%,67%,65,Moderate,"$27,132","$44,844",143
+University of Kentucky,Large,South,Kentucky,"Nursing, Business, Biology, and Engineering",92%,69%,83,Great,"$35,098","$55,292",143
+Louisisana State University,Large,South,Louisiana,"Nursing, Physical Education Teaching, Biology, Business, Finance, and Mechanical Engineering",74%,68%,72,Good,"$35,218","$51,895",169
+University of Maine,Medium,Northeast,Maine,"Business Administration & Management, Mechanical Engineering, and Psychology",96%,55%,39,Low,"$28,572","$51,312",257
+"University of Maryland, College Park",Large ,South,Maryland,"Computer Science, Engineering, Criminology, and Business",45%,89%,78,Good,"$30,885","$59,686",42
+University of Massachusetts - Amherst,Large,Northeast,Massachusetts,"Psychology, Computer Science, Finance, Biology, Communication, Economics, and Marketing",58%,83%,64,Moderate,"$34,666","$56,502",64
+University of Michigan - Ann Arbor,Large,Midwest,Michigan,"Computer Science, Business Administration, Economics, Behavioral Neuroscience, and Engineering",18%,93%,96,Amazing,"$34,782","$75,626",20
+University of Minnesota - Twin Cities,Large,Midwest,Minnesota,"Engineering, Business, and Health Sciences",77%,84%,88,Great,"$32,866","$52,702",59
+University of Mississippi,Large,South,Mississippi,"Business, Health, and Communications",98%,68%,42,Moderate,"$28,952","$46,520",169
+University of Missouri,Large,Midwest,Missouri,"Business, Agriculture, and Journalism",77%,75%,91,Amazing,"$32,272","$52,480",102
+Montana State University,Medium,West,Montana,"Engineering, Business, Nursing, and Agricultural Sciences",87%,57%,74,Good,"$26,671","$49,925",318
+University of Nebraska - Lincoln,Large,Midwest,Nebraska,"Business Administration, Marketing, Finance, Psychology, and Engineering",77%,65%,90,Great,"$28,656","$49,296",158
+University of Nevada - Reno,Large,West,Nevada,"Nursing, Psychology, Criminal Justice, Business Administration, and Elementary Education",85%,62%,59,Moderate,"$29,264","$46,220",192
+University of New Hampshire,Medium,Northeast,New Hampshire,"Business, Psychology, and Communication",87%,78%,83,Great,"$36,076","$55,846",117
+Rutgers University - New Brunswick,Medium,Northeast,New Jersey,"Business/Marketing, Computer Science, Engineering, Pharmacy, and Psychology",79%,66%,96,Amazing!!,"$37,409","$56,171",75
+University of New Mexico,Large,West,New Mexico,"Health, Management, Marketing, Visual and Performing Arts, Education, and Liberal Arts and Sciences",95%,52%,80,Good,"$26,035","$44,370",242
+Stony Brook University - SUNY,Large,Northeast,New York,"Biological Sciences, Psychology, Applied Mathematics and Statistics, Business Administration, and Computer Science",49%,78%,35,Horrendous,"$32,370","$52,160",59
+University of North Carolina at Chapel Hill,Large ,South,North Carolina,"Health, Psychology, Social Sciences, Computer and Info Services, and Marketing",19%,91%,69,Moderate,"$26,109","$56,450",26
+University of North Dakota,Medium,Midwest,North Dakota,"Aeronautics/Aviation, Nursing, Engineering, and Business",77%,63%,50,Moderate,"$26,243","$30,862",242
+The Ohio State University,Large,Midwest,Ohio,"Allied Health and Medical Assisting Services, Speech Communication, Accouting, Engineering, and Political Sciences",51%,83%,70,Good,"$31,231","$56,737",41
+University of Oklahoma,Large,South,Oklahoma,"Petroleum Engineering, Atmospheric Science, Meteorology, and Business",77%,76%,84,Amazing,"$30,486","$47,556",110
+University of Oregon,Large,West,Oregon,"Human Physiology, Advertising, Business Administration, and Journaling",85%,73%,84,Amazing,"$35,721","$63,354",110
+University of Pittsburgh,Large,Northeast,Pennsylvania,"Psychology, Biomedical Sciences, Engineering, and Business",50%,84%,93,Amazing!!,"$38,446","$56,812",69
+University of Rhode Island,Medium,Northeast,Rhode Island,"Registered Nursing, Psychology, Kinesiology, Biology, and Business/Finance",77%,72%,63,Moderate,"$34,994","$54,390",151
+Clemson University,Large,South,South Carolina,"Mechanical Engineering, Food Science, Health Professions, and Biological Sciences",38%,85%,54,Moderate,"$35,338","$59,282",75
+University of South Dakota,Medium,Midwest,South Dakota,"Law, Medicine, Leisure, Recreation, Fitness, Kinesiology, and Communication",99%,57%,65,Moderate,"$24,639","$28,149",283
+The University of Tennessee - Knoxville,Large,South,Tennessee,"Supply Chain Management, Nuclear Engineering, Aerospace Engineering, Agriculture, and Journalism",46%,73%,60,Moderate,"$33,678","$52,168",102
+University of Texas at Austin,Large,South,Texas,"Political Science, Computer Science, Engineering, Business, Data Science, and Biochemistry",29%,88%,92,Amazing!!,"$31,572.00","$62,672",30
+University of Utah,Large,West,Utah,"Games & Simulation, Business Analytics, Entrepreneurship, Communication",87%,65%,49,Good,"$30,613","$51,135",151
+University of Vermont,Medium,Northeast,Vermont,"Natural Resources, Business Administration, Psychology, and Environmental Scienc",60%,76%,73,Great,"$35,798","$60,798",132
+University of Virginia,Large,South,Virginia,"Commerce, Economics, Foreign Affairs, Biology, and Computer Science",17%,95%,87,Great,"$39,926","$76,954",26
+University of Washington,Large,West,Washington,"Information Studies, Public Health, Biomedical Sciences, Support Service, and Computer and Information Services",43%,84%,84,Amazing,"$34,552","$63,906",42
+West Virginia University ,Large,South,West Virginia,"Exercise Physiology, Health Studies, Biostatics, Education, Occupational Therapy, and Social Work",86%,62%,86,Good,"$27,644","$45,356",222
+University of Wisconsin - Madison,Large,Midwest,Wisconsin,"Neuroscience, Consumer Behavior, Marketplace Studies, Data Science, and Computer Sciences",43%,89%,76,Good,"$28,905","$58,303",36
+University of Wyoming,Medium,West,Wyoming,"Criminal Justice, Safety Studies, Environmental Science, Education, and Nursing",97%,61%,64,Moderate,"$28,868","$41,648",222
